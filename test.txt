@@ -1,3 +1,5 @@
 Test for multi-remote on git.
 
 This is original text.
+
+master branch.
